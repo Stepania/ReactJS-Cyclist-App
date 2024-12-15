@@ -1,0 +1,13 @@
+.App-footer {
+  background-color: #282c34;
+
+  justify-content: space-between;
+  font-size: 15px;
+  color: white;
+}
+
+li {
+  list-style-type: none;
+  display: inline;
+  padding: 0 8rem;
+}
